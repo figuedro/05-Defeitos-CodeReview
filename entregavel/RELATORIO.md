@@ -103,9 +103,8 @@
 
 **Evidência:**
 ![Descrição da evidência]
-
-
-
+<img width="798" height="294" alt="cadastro-prioridade-alta" src="https://github.com/user-attachments/assets/56c7dd2a-9275-4ea6-89eb-6a782659b505" />
+<img width="787" height="179" alt="tarefa-prioridade-passando" src="https://github.com/user-attachments/assets/20cc5f7b-e4ec-436e-9b8d-7315ea16aa13" />
 
 
 **Sugestão de causa raiz (opcional):**
@@ -140,9 +139,10 @@
 
 **Evidência:**
 ![Descrição da evidência]
+<img width="782" height="285" alt="cadastro-tarefa-vazia" src="https://github.com/user-attachments/assets/07441d22-38e8-42ba-a190-18acf7929fc0" />
+<img width="775" height="323" alt="tarefas-vazias-tabela" src="https://github.com/user-attachments/assets/3840d7e0-533f-4e00-bb7e-40642b95ced4" />
 
-> Se preferir anexar um GIF ou arquivo de log, crie uma pasta
-> `evidencias/` ao lado deste arquivo e referencie o arquivo aqui.
+
 
 **Sugestão de causa raiz (opcional):**
 [O campo prioridade não possui algum tipo de validação para garantir que o valor esteja entre 1 e 5]
